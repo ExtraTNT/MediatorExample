@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorExample", "MediatorExample\MediatorExample.csproj", "{54F1EBB7-1BB0-4FE4-BFAF-44DF3902E8CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0CCCAB31-51C0-4E43-8266-CB4AB4B2DCC9}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54F1EBB7-1BB0-4FE4-BFAF-44DF3902E8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F1EBB7-1BB0-4FE4-BFAF-44DF3902E8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F1EBB7-1BB0-4FE4-BFAF-44DF3902E8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F1EBB7-1BB0-4FE4-BFAF-44DF3902E8CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

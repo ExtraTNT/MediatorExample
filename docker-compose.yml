@@ -1,0 +1,6 @@
+﻿services:
+  mediatorexample:
+    image: mediatorexample
+    build:
+      context: .
+      dockerfile: MediatorExample/Dockerfile
